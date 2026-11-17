@@ -1,0 +1,2 @@
+1e3946bd53c184018a4c670a77990bf1eef0aff640ec5d1f6e5380fc8680314f  egor-ts10-diagnostics-0.1.apk
+d41f1d250c3eeb7ab6c0bb3caea3242abea3b2ae7e96c0f6aa2c7b20c6a3b95f  egor-ts10-diagnostics-0.1.zip
